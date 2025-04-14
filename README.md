@@ -26,7 +26,7 @@
 ### 📫 Let's Connect
 - GitHub: [@ajaydevas1](https://github.com/ajaydevas1)
 - 📧 Email: [kasotiyaajay1234@gmail.com](mailto:kasotiyaajay1234@gmail.com)
-- 🔗 LinkedIn: *([add your profile link here](https://www.linkedin.com/in/ajay-kasotiya-29a2aa284/))*
+- 🔗 LinkedIn: *([Ajay Kasotiya](https://www.linkedin.com/in/ajay-kasotiya-29a2aa284/))*
 
 ---
 
