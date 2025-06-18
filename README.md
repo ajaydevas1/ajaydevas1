@@ -32,7 +32,7 @@
 
 ### 📌 Pinned Projects
 Check out some of my favorite work:
-- 💰 [Personal Finance Tracker](https://github.com/ajaydevas1/personal-finance-tracker) – Track and analyze your income & expense
+- 💰 [Personal Finance Tracker](https://github.com/ajaydevas1/personal-finance) – Track and analyze your income & expense
 
 ---
 
